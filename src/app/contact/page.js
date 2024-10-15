@@ -1,11 +1,11 @@
 import React from "react";
 
-const Home = () => {
+const Contact = () => {
   return (
     <div className="flex items-center justify-center w-screen h-screen text-4xl text-white bg-black">
-      Home
+      Contact
     </div>
   );
 };
 
-export default Home;
+export default Contact;

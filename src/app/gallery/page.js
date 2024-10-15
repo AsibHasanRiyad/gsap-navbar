@@ -1,11 +1,11 @@
 import React from "react";
 
-const Home = () => {
+const Gallery = () => {
   return (
     <div className="flex items-center justify-center w-screen h-screen text-4xl text-white bg-black">
-      Home
+      Gallery
     </div>
   );
 };
 
-export default Home;
+export default Gallery;
